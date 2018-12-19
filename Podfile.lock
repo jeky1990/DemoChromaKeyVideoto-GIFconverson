@@ -1,0 +1,20 @@
+PODS:
+  - MKProgress (1.0.9)
+  - Regift (1.5.0)
+
+DEPENDENCIES:
+  - MKProgress
+  - Regift
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - MKProgress
+    - Regift
+
+SPEC CHECKSUMS:
+  MKProgress: 4fa8dd701b872c82b780c885d577f99c8848d584
+  Regift: d097afd401021f4f42b102ee125ceeb125a38caf
+
+PODFILE CHECKSUM: 7970f0a9323203022ae985a0e2363fb1dd7a80a0
+
+COCOAPODS: 1.6.0.beta.2
